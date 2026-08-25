@@ -14,6 +14,7 @@
 | [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 4 |
 | [Edge Computing](./directions/edge-computing/README.md) | `edge-computing` | 2 |
 | [Data Mining](./directions/data-mining/README.md) | `data-mining` | 7 |
+| [AI4DB](./directions/data-mining/README.md) | `ai4db` | 1 |
 
 
 ## 维护规则
@@ -43,6 +44,7 @@ All code links point by default to source code repositories forked or maintained
 | [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 4 |
 | [Edge Computing](./directions/edge-computing/README.md) | `edge-computing` | 2 |
 | [Data Mining](./directions/data-mining/README.md) | `data-mining` | 7 |
+| [AI4DB](./directions/data-mining/README.md) | `ai4db` | 1 |
 
 ## Maintenance Rules
 
