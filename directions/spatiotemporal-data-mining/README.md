@@ -6,6 +6,9 @@
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+
+| 基于动态增强双图协同学习网络的多元时间序列预测 | 2027 |  软件学报 <br>(CCF A) | TODO | [Code](https://github.com/sigma-ouc/D2GraNet) |
+| Coupling Multi-Physics Processes and Multi-Scale Data Correlation Learning for Environmental Spatiotemporal Forecasting | 2027 |  IEEE International Conference on Data Engineering‌ <br>(CCF A) | TODO | [Code](https://github.com/sigma-ouc/2027ICDE-Env4Cast) |
 | Trajectory Data Management and Mining: A Survey From Deep Learning to the LLM Era | 2026 |  IEEE Transactions on Knowledge and Data Engineering <br>(CCF A) | [Paper](https://ieeexplore.ieee.org/abstract/document/11631853) | TODO |
 | ST-Imputer: Multivariate dependency-aware diffusion network with physics guidance for spatiotemporal imputation | 2026 | Information Fusion<br>(JCR Q1, CAAI A) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525011467) | [Code](https://github.com/sigma-ouc/2026-Information-Fusion-ST-Imputer) |
 | Trajectory Similarity Hash Learning with Spatio-Temporal GRU | 2026 | IEEE Transactions on Big Data<br>(JCR Q1, CCF C) | [Paper](https://ieeexplore.ieee.org/abstract/document/11432961) | [Code]( https://github.com/caoyuan618/Traj-ST) |
