@@ -6,7 +6,6 @@
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
-
 | 基于动态增强双图协同学习网络的多元时间序列预测 | 2027 |  软件学报 <br>(CCF A) | TODO | [Code](https://github.com/sigma-ouc/D2GraNet) |
 | Coupling Multi-Physics Processes and Multi-Scale Data Correlation Learning for Environmental Spatiotemporal Forecasting | 2027 |  IEEE International Conference on Data Engineering‌ <br>(CCF A) | TODO | [Code](https://github.com/sigma-ouc/2027ICDE-Env4Cast) |
 | Trajectory Data Management and Mining: A Survey From Deep Learning to the LLM Era | 2026 |  IEEE Transactions on Knowledge and Data Engineering <br>(CCF A) | [Paper](https://ieeexplore.ieee.org/abstract/document/11631853) | TODO |
