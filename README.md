@@ -13,7 +13,7 @@
 | [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 12 |
 | [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 4 |
 | [Edge Computing](./directions/edge-computing/README.md) | `edge-computing` | 3 |
-| [Data Mining](./directions/data-mining/README.md) | `data-mining` | 7 |
+| [Data Mining](./directions/data-mining/README.md) | `data-mining` | 11 |
 | [AI4DB](./directions/data-mining/README.md) | `ai4db` | 1 |
 
 
