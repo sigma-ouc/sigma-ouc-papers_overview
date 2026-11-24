@@ -8,7 +8,7 @@
 
 | 方向 | slug | 主方向论文数 |
 |---|---|---:|
-| [Spatiotemporal Data Mining](./directions/spatiotemporal-data-mining/README.md) | `spatiotemporal-data-mining` | 26 |
+| [Spatiotemporal Data Mining](./directions/spatiotemporal-data-mining/README.md) | `spatiotemporal-data-mining` | 27 |
 | [Graph Neural Networks](./directions/graph-neural-networks/README.md) | `graph-neural-networks` | 20 |
 | [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 4 |
 | [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 4 |
