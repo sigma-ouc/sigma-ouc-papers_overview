@@ -6,6 +6,7 @@
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+| 可解释证据增强的连续时间动态图神经网络 | 2027 | 软件学报<br>(CCF A) | TODO | TODO |
 | Long-tailed Approaching Cross-modal Hashing with Multi-expert Collaborative Learning | 2026 | IEEE Transactions on Image Processing<br>(CCF A) | [Paper](https://ieeexplore.ieee.org/abstract/document/11623424) | TODO |
 | Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference | 2026 | Proceedings of the 35th International Joint Conference on Artificial Intelligence<br>(CCF B) | TODO | [Code](https://github.com/Tilamisu-zz/DHISL) |
 | Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values | 2026 | Fundamental Research<br>(JCR Q1) | [Paper](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | TODO |
